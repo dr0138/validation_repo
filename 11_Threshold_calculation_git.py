@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ## just check git hub updates
+# MAGIC ## just check git hub updates main branch
 
 # COMMAND ----------
 
